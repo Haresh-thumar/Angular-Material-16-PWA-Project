@@ -1,4 +1,4 @@
-# Angular 16 PWA App
+# Angular Material 16 PWA App
 
 - Install PWA Library
 
